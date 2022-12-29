@@ -1,0 +1,18 @@
+﻿  first_openGl.cpp
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(6,1): warning C4005: GLEW_STATIC: изменение макроопределения
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(6,1): message : "GLEW_STATIC" ранее объявлен в командной строке
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(222,27): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(224,30): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(225,29): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(280,52): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(283,52): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  1 of 55 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\ilapa\Desktop\my_game\first_openGl\x64\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  first_openGl.vcxproj -> C:\Users\ilapa\Desktop\my_game\first_openGl\x64\Release\first_openGl.exe

@@ -1,0 +1,7 @@
+﻿  first_openGl.cpp
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(6,1): warning C4005: GLEW_STATIC: изменение макроопределения
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(6,1): message : "GLEW_STATIC" ранее объявлен в командной строке
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(223,27): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(225,30): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ilapa\Desktop\my_game\first_openGl\first_openGl\first_openGl.cpp(226,29): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  first_openGl.vcxproj -> C:\Users\ilapa\Desktop\my_game\first_openGl\x64\Debug\first_openGl.exe
